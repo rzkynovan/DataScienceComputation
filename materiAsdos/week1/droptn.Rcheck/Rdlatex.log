@@ -1,0 +1,460 @@
+Hmm ... looks like a package
+Converting parsed Rd's to LaTeX 
+Creating pdf output from LaTeX ...
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/eucal.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty)))) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef)
+No file Rd2.aux.
+(/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+kpathsea: Running mktextfm pcrr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...maintainer }\email{yourself@somewhere.net}
+                                                  \AsIs{}
+Missing character: There is no < in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no > in font nullfont!
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1phv.fd)
+kpathsea: Running mktextfm phvr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for phvr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf phvr8t
+
+! I can't find file `phvr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Transcript written on mfput.log.
+grep: phvr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t' failed to make phvr8t.tfm.
+
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.27 \Rdcontents{\R{} topics documented:}
+                                         
+Missing character: There is no R in font nullfont!
+No file Rd2.toc.
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsb.fd)
+kpathsea: Running mktextfm pcrr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.42 \begin{ExampleCode}
+                        
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+[1{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/
+usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./Rd2.aux
+)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2024bas
+ic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024basic/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024basic/texmf-d
+ist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (1 page, 35773 bytes).
+Transcript written on Rd2.log.
+Error in texi2dvi(file = file, pdf = TRUE, clean = clean, quiet = quiet,  : 
+  unable to run pdflatex on 'Rd2.tex'
+LaTeX errors:
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...maintainer }\email{yourself@somewhere.net}
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.27 \Rdcontents{\R{} topics documented:}
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.42 \begin{ExampleCode}
+                        
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/bm.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/tools/verbatim.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/eucal.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty)))) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef) (./Rd2.aux)
+(/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (./Rd2.out) (./Rd2.out)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+kpathsea: Running mktextfm pcrr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...maintainer }\email{yourself@somewhere.net}
+                                                  \AsIs{}
+Missing character: There is no < in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no > in font nullfont!
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/psnfss/t1phv.fd)
+kpathsea: Running mktextfm phvr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for phvr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf phvr8t
+
+! I can't find file `phvr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Transcript written on mfput.log.
+grep: phvr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t' failed to make phvr8t.tfm.
+
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.27 \Rdcontents{\R{} topics documented:}
+                                         
+Missing character: There is no R in font nullfont!
+(./Rd2.toc (/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/amsfonts/umsb.fd))
+kpathsea: Running mktextfm pcrr8t
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/usr/local/texlive/2024basic/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.71828182 (TeX Live 2024) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.42 \begin{ExampleCode}
+                        
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+[1{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/
+usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./Rd2.aux
+) )
+(see the transcript file for additional information)</usr/local/texlive/2024bas
+ic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024basic/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024basic/texmf-d
+ist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Rd2.pdf (1 page, 36010 bytes).
+Transcript written on Rd2.log.
+Error in texi2dvi(file = file, pdf = TRUE, clean = clean, quiet = quiet,  : 
+  unable to run pdflatex on 'Rd2.tex'
+LaTeX errors:
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...maintainer }\email{yourself@somewhere.net}
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.27 \Rdcontents{\R{} topics documented:}
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.42 \begin{ExampleCode}
+                        
+Error in running tools::texi2pdf()
+You may want to clean up by 'rm -Rf /var/folders/9d/fp3wp_nx6xqbblmg0zr1yk700000gn/T//RtmpxPK5RX/Rd2pdf4f2c20930b28'

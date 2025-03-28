@@ -1,0 +1,8 @@
+drop_columns_with_na <- function(df, null_threshold_percent) {
+  threshold <- null_threshold_percent / 100
+  na_proportion <- sapply(df, function(x) mean(is.na(x))) # anonymous function & sapply for 
+  cols_to_drop <- names(na_proportion[na_proportion > threshold])
+  
+  df_new <- df[, !(names(df) %in% cols_to_drop)]
+  return(df_new)
+}
